@@ -371,7 +371,7 @@ var CalHeatMap = function() {
 			},
 			format: {
 				date: "%B %Y",
-				legend: "%B",
+				legend: "%B %Y",
 				connector: "on"
 			},
 			extractUnit : function(d) {
